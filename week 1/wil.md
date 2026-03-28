@@ -1,4 +1,4 @@
-<img src="img.png" alt="캡쳐 이미지" width="400">
+<img src="img.png" alt="캡쳐 이미지" width="1000">
 
 ## API 명세서
 
